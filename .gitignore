@@ -1,6 +1,5 @@
 .ipynb_checkpoints/
 .git
 cache
-MINST_data
-movie_rating.csv
-NatalRisk.csv
+.DS_Store
+.vscode/
